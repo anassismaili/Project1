@@ -34,7 +34,7 @@ object SportApp {
         val driver = "com.mysql.jdbc.Driver"
         val url = "jdbc:mysql://localhost:3306/p1" // Modify for whatever port you are running your DB on
         val username = "root"
-        val password = "monalisa.123" // Update to include your password
+        val password = "#########" // Update to include your password
 
         var connection:Connection = null
         
